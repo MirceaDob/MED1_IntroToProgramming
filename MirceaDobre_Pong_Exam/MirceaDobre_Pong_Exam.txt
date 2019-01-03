@@ -1,0 +1,22 @@
+This is my version of the classic game ¨Pong¨.
+
+The user can control the game by using a mouse or trackpad.
+
+Instructions (some are also in the game window) about the commands and rules:
+- Left Click to Start/Pause
+- Right Click to change the color theme
+- move the mouse up and down to control the pad on the right side of the window
+- use the pad to hit incoming balls
+- do not let the balls cross the line on the right side of the window
+- hit the balls 10 times in a row to get a flower
+- each hit on a ball gives 1 point
+- missing a ball takes -1 from the score
+- each hit on a flower gives 10 points
+- there can only be 1 flower at a time
+- the mouse cursor must be inside the game window for the controls to work
+
+The user can read the score and counter to a streak of 10
+in the top right corner of the window.
+
+Thanks for playing,
+Mircea Dobre
